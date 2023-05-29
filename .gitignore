@@ -1,0 +1,30 @@
+# .gitignore
+
+# Python files to ignore
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.so
+*.pypy
+
+# Environments
+.env
+.venv
+ENV/
+env/
+venv/
+ENV.bak/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
