@@ -1,0 +1,3 @@
+SPREADSHEET_ID = ''
+RANGE_NAME = ''
+YOUR_API_KEY = ''
